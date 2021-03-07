@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "title": "about",
+    "planetUrl": "https://www.solarsystemscope.com/textures/download/2k_makemake_fictional.jpg"
+  },
+  {
+    "id": 1,
+    "title": "services",
+    "planetUrl": "https://www.solarsystemscope.com/textures/download/2k_haumea_fictional.jpg"
+  },
+  {
+    "id": 2,
+    "title": "portfolio",
+    "planetUrl": "https://www.solarsystemscope.com/textures/download/2k_ceres_fictional.jpg"
+  },
+  {
+    "id": 3,
+    "title": "testimonials",
+    "planetUrl": "https://www.solarsystemscope.com/textures/download/2k_neptune.jpg"
+  },
+  {
+    "id": 4,
+    "title": "contact",
+    "planetUrl": "https://www.solarsystemscope.com/textures/download/2k_mars.jpg"
+  }
+]

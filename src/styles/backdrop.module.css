@@ -1,0 +1,18 @@
+.backdrop {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  overflow: hidden;
+  background-color: #040416;
+}
+
+.star{
+  animation: fadeIn ease-in-out alternate;
+  animation-fill-mode: both;
+}
+
+@keyframes fadeIn{
+  from{opacity: 0;}
+  to {opacity: 1;}
+}
