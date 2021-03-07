@@ -2,7 +2,7 @@
 const React = require('react')
 const { ColorModeScript } = require("@chakra-ui/react")
 
-const { default: Layout } = require("./src/components/layout")
+const { default: Layout } = require("./src/components/Layout")
 
 exports.onRenderBody = ({ setPreBodyComponents }) =>
 {
